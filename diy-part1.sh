@@ -16,4 +16,3 @@
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
-sed -i 's/192.168.1.1/10.0.0.128/g' openwrt/package/base-files/files/bin/config_generate
