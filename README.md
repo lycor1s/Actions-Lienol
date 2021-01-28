@@ -2,9 +2,8 @@
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 
-Build Lienol's OpenWrt using GitHub Actions
+Build [Lienol's OpenWrt](https://github.com/Lienol/openwrt) using GitHub Actions
 
-Base on [Lean's OpenWrt](https://github.com/Lienol/openwrt)
 
 ## status
 ![Build OpenWrt](https://github.com/lycor1s/Actions-Lienol/workflows/Build%20OpenWrt/badge.svg)
