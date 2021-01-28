@@ -6,7 +6,8 @@ Build Lienol's OpenWrt using GitHub Actions
 
 Base on [Lean's OpenWrt](https://github.com/Lienol/openwrt)
 
-## status ![Build OpenWrt](https://github.com/lycor1s/Actions-Lienol/workflows/Build%20OpenWrt/badge.svg)
+## status
+![Build OpenWrt](https://github.com/lycor1s/Actions-Lienol/workflows/Build%20OpenWrt/badge.svg)
 
 ## Tips
 
