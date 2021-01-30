@@ -22,5 +22,7 @@ git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-a
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
 
 rm -rf feeds/packages/libs/libcap
-# svn co https://github.com/openwrt/packages/tree/master/libs/libcap feeds/packages/libs/libcap
 svn co https://github.com/openwrt/packages/trunk/libs/libcap feeds/packages/libs/libcap
+
+rm -rf package/lean/luci-theme-argon
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
